@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"psm.categories"},{"v":2,"unique":true,"key":{"category":1},"name":"category_1","ns":"psm.categories","background":true}],"uuid":"edc923c034b549a1b2403760dd730acc"}

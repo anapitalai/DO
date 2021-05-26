@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"uni-assets.donors"},{"v":2,"unique":true,"key":{"donor":1},"name":"donor_1","ns":"uni-assets.donors","background":true}],"uuid":"657c643d72974c198df7e9543f9692df"}

@@ -63,13 +63,13 @@ function renderChart() {
     "theme": "light",
     "dataProvider": [ {
       "month": "Jan",
-      "visits": 0
+      "visits": 10
     }, {
       "month": "Feb",
-      "visits": 0
+      "visits": 20
     }, {
       "month": "Mar",
-      "visits": 0
+      "visits": 30
     }, {
       "month": "Apr",
       "visits": 0

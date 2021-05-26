@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"psm.psmsketches"},{"v":2,"unique":true,"key":{"name":1},"name":"name_1","ns":"psm.psmsketches","background":true}],"uuid":"59583f640bc34bd3a106f0fbf44e4f69"}

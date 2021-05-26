@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"uni-assets.suppliers"},{"v":2,"unique":true,"key":{"supplier":1},"name":"supplier_1","ns":"uni-assets.suppliers","background":true}],"uuid":"6e20949e81ab4323a43401475f8daa25"}

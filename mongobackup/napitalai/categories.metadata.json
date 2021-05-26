@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"napitalai.categories"},{"v":2,"unique":true,"key":{"category":1},"name":"category_1","ns":"napitalai.categories","background":true}],"uuid":"ad047c6ddc8540ac94651e9dad42d91f"}

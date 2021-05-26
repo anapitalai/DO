@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"uni-assets.ges"},{"v":2,"unique":true,"key":{"GE":1},"name":"GE_1","ns":"uni-assets.ges","background":true}],"uuid":"ff8dec8774ea4386b5dc1a71dd6bad6c"}

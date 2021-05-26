@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"napitalai.fams"},{"v":2,"unique":true,"key":{"asset":1},"name":"asset_1","ns":"napitalai.fams","background":true},{"v":2,"unique":true,"key":{"serial":1},"name":"serial_1","ns":"napitalai.fams","background":true}],"uuid":"fdef3607f1f64a77b07217d7af6dde3e"}
